@@ -1,0 +1,983 @@
+fileFormatVersion: 2
+guid: 2dc6191de89ef124e963f0e01aeaffc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8866866497302631596
+    second: BubbleGameNPCS-Sheet_0
+  - first:
+      213: 4867690835924374344
+    second: BubbleGameNPCS-Sheet_1
+  - first:
+      213: 6515461736855701334
+    second: BubbleGameNPCS-Sheet_2
+  - first:
+      213: 4289918913045052926
+    second: BubbleGameNPCS-Sheet_3
+  - first:
+      213: 8842579701516137628
+    second: BubbleGameNPCS-Sheet_4
+  - first:
+      213: -1175099194017143230
+    second: BubbleGameNPCS-Sheet_5
+  - first:
+      213: 3446578913872731186
+    second: BubbleGameNPCS-Sheet_6
+  - first:
+      213: 1471460662747445052
+    second: BubbleGameNPCS-Sheet_7
+  - first:
+      213: -3467279531926591230
+    second: BubbleGameNPCS-Sheet_8
+  - first:
+      213: 2160069937811047720
+    second: BubbleGameNPCS-Sheet_9
+  - first:
+      213: 3037456103148971040
+    second: BubbleGameNPCS-Sheet_10
+  - first:
+      213: 5664118518290819864
+    second: BubbleGameNPCS-Sheet_11
+  - first:
+      213: -3515856151578346299
+    second: BubbleGameNPCS-Sheet_12
+  - first:
+      213: -8993810189000196316
+    second: BubbleGameNPCS-Sheet_13
+  - first:
+      213: 635014815229672829
+    second: BubbleGameNPCS-Sheet_14
+  - first:
+      213: -1880473068235689752
+    second: BubbleGameNPCS-Sheet_15
+  - first:
+      213: 751881105193940818
+    second: BubbleGameNPCS-Sheet_16
+  - first:
+      213: 9094690592557320984
+    second: BubbleGameNPCS-Sheet_17
+  - first:
+      213: -2029709589246988077
+    second: BubbleGameNPCS-Sheet_18
+  - first:
+      213: 8075254951033973229
+    second: BubbleGameNPCS-Sheet_19
+  - first:
+      213: 7750235281465631625
+    second: BubbleGameNPCS-Sheet_20
+  - first:
+      213: -1718923725033171475
+    second: BubbleGameNPCS-Sheet_21
+  - first:
+      213: 5840704046474615953
+    second: BubbleGameNPCS-Sheet_22
+  - first:
+      213: -5424876442800019155
+    second: BubbleGameNPCS-Sheet_23
+  - first:
+      213: 2616144686387653274
+    second: BubbleGameNPCS-Sheet_24
+  - first:
+      213: -5304611401600245929
+    second: BubbleGameNPCS-Sheet_25
+  - first:
+      213: -5172034956036412861
+    second: BubbleGameNPCS-Sheet_26
+  - first:
+      213: 8975367481728593540
+    second: BubbleGameNPCS-Sheet_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45be67d36ef82f480800000000000000
+      internalID: -8866866497302631596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84352bf66038d8340800000000000000
+      internalID: 4867690835924374344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6570fe4ede19b6a50800000000000000
+      internalID: 6515461736855701334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdb74fb58ad88b30800000000000000
+      internalID: 4289918913045052926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94f2f6736727ba70800000000000000
+      internalID: 8842579701516137628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246a2cc428531bfe0800000000000000
+      internalID: -1175099194017143230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c5cbbe245b4df20800000000000000
+      internalID: 3446578913872731186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37b5083dadab6410800000000000000
+      internalID: 1471460662747445052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209688ad2afb1efc0800000000000000
+      internalID: -3467279531926591230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8254a35f92c1afd10800000000000000
+      internalID: 2160069937811047720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02469019b36372a20800000000000000
+      internalID: 3037456103148971040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81baf6858cdfa9e40800000000000000
+      internalID: 5664118518290819864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccfccb357b253fc0800000000000000
+      internalID: -3515856151578346299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fba5bc8419f2380800000000000000
+      internalID: -8993810189000196316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dffd82c9600d800800000000000000
+      internalID: 635014815229672829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e07f1625b737e5e0800000000000000
+      internalID: -1880473068235689752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257b96ca1e73f6a00800000000000000
+      internalID: 751881105193940818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b477f78e4d63e70800000000000000
+      internalID: 9094690592557320984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0bab7e1e505d3e0800000000000000
+      internalID: -2029709589246988077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9281be791111070800000000000000
+      internalID: 8075254951033973229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983657d0ded5e8b60800000000000000
+      internalID: 7750235281465631625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de51865baf72528e0800000000000000
+      internalID: -1718923725033171475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c5e4882695e0150800000000000000
+      internalID: 5840704046474615953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2925841e97f6b4b0800000000000000
+      internalID: -5424876442800019155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a69293bb96e4420800000000000000
+      internalID: 2616144686387653274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57408ac1eef35f44d8c35cf52424f81f
+      internalID: 1314043076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06d6860b697a7442a86489349cfd9f3
+      internalID: -981513302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e95a6c1a21a8c4d85e8ad4ce5ac4a5
+      internalID: 1470425951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 26
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b93e83b58faaa48b9c78c76606afb4
+      internalID: -1599850653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 21
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8409c5603966641857b2093e150084
+      internalID: -1587895945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 21
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f006681ac816dc24ea3c0ca8f93be4e2
+      internalID: 537316310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 26
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4ddffa5a418b74988ae87cfdc48fc7
+      internalID: 1987827453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 26
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f87cd77c34265846ae90eaf8700fbd4
+      internalID: 1866001869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubbleGameNPCS-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 21
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270e5b10eef83b2478d9e713cb56bad5
+      internalID: 1504316939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e70be6918211eb24f89ef95f03f3f925
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BubbleGameNPCS-Sheet_0: -8866866497302631596
+      BubbleGameNPCS-Sheet_1: 4867690835924374344
+      BubbleGameNPCS-Sheet_10: 3037456103148971040
+      BubbleGameNPCS-Sheet_11: 5664118518290819864
+      BubbleGameNPCS-Sheet_12: -3515856151578346299
+      BubbleGameNPCS-Sheet_13: -8993810189000196316
+      BubbleGameNPCS-Sheet_14: 635014815229672829
+      BubbleGameNPCS-Sheet_15: -1880473068235689752
+      BubbleGameNPCS-Sheet_16: 751881105193940818
+      BubbleGameNPCS-Sheet_17: 9094690592557320984
+      BubbleGameNPCS-Sheet_18: -2029709589246988077
+      BubbleGameNPCS-Sheet_19: 8075254951033973229
+      BubbleGameNPCS-Sheet_2: 6515461736855701334
+      BubbleGameNPCS-Sheet_20: 7750235281465631625
+      BubbleGameNPCS-Sheet_21: -1718923725033171475
+      BubbleGameNPCS-Sheet_22: 5840704046474615953
+      BubbleGameNPCS-Sheet_23: -5424876442800019155
+      BubbleGameNPCS-Sheet_24: 2616144686387653274
+      BubbleGameNPCS-Sheet_25: 1314043076
+      BubbleGameNPCS-Sheet_26: -981513302
+      BubbleGameNPCS-Sheet_27: 1470425951
+      BubbleGameNPCS-Sheet_28: -1599850653
+      BubbleGameNPCS-Sheet_29: -1587895945
+      BubbleGameNPCS-Sheet_3: 4289918913045052926
+      BubbleGameNPCS-Sheet_30: 537316310
+      BubbleGameNPCS-Sheet_31: 1987827453
+      BubbleGameNPCS-Sheet_32: 1866001869
+      BubbleGameNPCS-Sheet_33: 1504316939
+      BubbleGameNPCS-Sheet_4: 8842579701516137628
+      BubbleGameNPCS-Sheet_5: -1175099194017143230
+      BubbleGameNPCS-Sheet_6: 3446578913872731186
+      BubbleGameNPCS-Sheet_7: 1471460662747445052
+      BubbleGameNPCS-Sheet_8: -3467279531926591230
+      BubbleGameNPCS-Sheet_9: 2160069937811047720
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

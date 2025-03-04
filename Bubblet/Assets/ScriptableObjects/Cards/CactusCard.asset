@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dec2095c4b5536444a23d29043240eaa, type: 3}
+  m_Name: CactusCard
+  m_EditorClassIdentifier: 
+  difficulty: 0
+  multiplierAddition: 2
+  icon: {fileID: -8866866497302631596, guid: 2dc6191de89ef124e963f0e01aeaffc7, type: 3}
+  iconMaterial: {fileID: 2100000, guid: 9a13e8f24647cc243a7fe514b8b92ee5, type: 2}
+  title: +2 cactus
+  description: add 2 more cactus enemies per enemy set
+  addedValues:
+    randomsCount: 0
+    turrentsCount: 0
+    treesCount: 0
+    cactiCount: 2
+    waveCount: 0

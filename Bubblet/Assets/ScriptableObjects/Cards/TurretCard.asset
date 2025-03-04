@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dec2095c4b5536444a23d29043240eaa, type: 3}
+  m_Name: TurretCard
+  m_EditorClassIdentifier: 
+  difficulty: 0
+  multiplierAddition: 2
+  icon: {fileID: 1118011411615830818, guid: 74c977535fdcfec40a5583f096ad54c5, type: 3}
+  textIcon: 
+  iconMaterial: {fileID: 2100000, guid: 85aa4d542fc21a740a90e2bb644320b7, type: 2}
+  title: +2 turrets
+  description: add 2 more turrets enemies per enemy set
+  addedValues:
+    randomsCount: 0
+    turrentsCount: 2
+    treesCount: 0
+    cactiCount: 0
+    waveCount: 0

@@ -1,0 +1,36 @@
+Y = already completed
+X = incomplete
+X/Y = being worked on
+
+- turret totatin in bubbles Y
+- retrying (probably recode) Y
+- longer time between round end and crad selection, with a level complete and passage indication X
+- bullet erasing Y
+- borders on camera edges Y
+- (maybe) let the player use abilities on card selection menu Y
+- display all enemy types, wave amount and level X
+- add randomazation for the enemy shoot timers Y
+- (maybe) soom out camera a big more, game feels a little hecktic X
+- you can randomly get stuck as the gun Y
+- fix card hitbox Y
+- (maybe) make speficic enemy types spawn around the arena and not just the edges, maybe just spread attack enemies cz then their spread will actually fully take effect X
+- options menu X
+- quit button working Y
+- implement laser bot X
+- add all the sounds and stuff X
+- score up sound bugged Y
+
+
+//visual
+- add better indication for when enemies escape X
+- make dash clearer and more satesfying X
+- make I Frames flash you less or maybe just lower your opacity, people loose themselves too fast Y
+- change minimum size maybe X
+- fix UI on different resolutions Y
+- card flipping in and out animations, on selection maybe have the unselected cards fade while the selected one flips back X
+
+
+//new/extra (isnt needed just things i thought of)
+- add temporary card that apply only for one round, the next one but give bigger reward on it X
+- a tutorial X
+- more card ideas maybe X

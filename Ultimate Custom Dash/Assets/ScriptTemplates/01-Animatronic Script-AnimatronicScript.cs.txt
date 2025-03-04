@@ -1,0 +1,38 @@
+using NaughtyAttributes;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+
+public class #SCRIPTNAME# : AnimatronicBase
+{
+    //called when animatronic gets his AILevel
+    public override void AnimatronicStart()
+    {
+        #NOTRIM#
+    }
+
+    //called every frame after the Oppretunity calculations
+    public override void AnimatronicUpdate()
+    {
+        #NOTRIM#
+    }
+
+    //called every oppretunity
+    public override void OnOppretunity()
+    {
+        #NOTRIM#
+    }
+
+    //called when deathcoined
+    public override void OnDeathcoined()
+    {
+        #NOTRIM#
+    }
+
+    //called when someone kills the player
+    public override void OnPlayerDied()
+    {
+        #NOTRIM#
+    }
+}

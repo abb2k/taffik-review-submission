@@ -1,0 +1,201 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: deaa1518561d28b429b57e8a829f7d40, type: 3}
+  m_Name: All Sounds
+  m_EditorClassIdentifier: 
+  allSounds:
+  - SoundName: blip
+    Clip: {fileID: 8300000, guid: 11c951e541233794a8f2e4fef0705eaa, type: 3}
+    VolumeBalance: 1
+  - SoundName: click
+    Clip: {fileID: 8300000, guid: 9f1cb4e743667384fbe2d741af4a3232, type: 3}
+    VolumeBalance: 1
+  - SoundName: block
+    Clip: {fileID: 8300000, guid: f9092e479d5ddff4fbb33b8fb2a54faf, type: 3}
+    VolumeBalance: 1
+  - SoundName: officeSelect
+    Clip: {fileID: 8300000, guid: e8924080074cf094598737b9ac8b0add, type: 3}
+    VolumeBalance: 1
+  - SoundName: CrumblingDreams
+    Clip: {fileID: 8300000, guid: 62740daab5e538f47ac05fe0ebdd3c18, type: 3}
+    VolumeBalance: 1
+  - SoundName: NoMoreSleep
+    Clip: {fileID: 8300000, guid: 7cc46aa0374f5a4479db84d492a2789c, type: 3}
+    VolumeBalance: 1
+  - SoundName: SonataForTheFallen
+    Clip: {fileID: 8300000, guid: 8e41444e2f5ecaf4bb7027c6a4c49db0, type: 3}
+    VolumeBalance: 1
+  - SoundName: WhereDreamsDie
+    Clip: {fileID: 8300000, guid: fce0d106c873c5a4ea971a3ad15cacd5, type: 3}
+    VolumeBalance: 1
+  - SoundName: LastBreath
+    Clip: {fileID: 8300000, guid: ba4350f5289edc74ca719fd1f79b56b7, type: 3}
+    VolumeBalance: 1
+  - SoundName: HybernatingEvil
+    Clip: {fileID: 8300000, guid: 38438f90868644c4c8955fa5a7b66146, type: 3}
+    VolumeBalance: 1
+  - SoundName: Ambiance
+    Clip: {fileID: 8300000, guid: 4116eaaf92e95c8439867380538ba3fb, type: 3}
+    VolumeBalance: 1
+  - SoundName: fan
+    Clip: {fileID: 8300000, guid: e80262bf9a7b1814e9b40e4390fe5dba, type: 3}
+    VolumeBalance: 1
+  - SoundName: door
+    Clip: {fileID: 8300000, guid: fc4035108171c36448994af3a826e35e, type: 3}
+    VolumeBalance: 1
+  - SoundName: coin
+    Clip: {fileID: 8300000, guid: 38458fda9946bb84e9a902d2a48e2b35, type: 3}
+    VolumeBalance: 1
+  - SoundName: error
+    Clip: {fileID: 8300000, guid: 84cec718d7082374799136f156d43601, type: 3}
+    VolumeBalance: 1
+  - SoundName: nose
+    Clip: {fileID: 8300000, guid: 6811e2fda47aec04cb94e24fec72942d, type: 3}
+    VolumeBalance: 0.65
+  - SoundName: popSharp
+    Clip: {fileID: 8300000, guid: f6a20db448ba4704cba7f0bad6bf9329, type: 3}
+    VolumeBalance: 1
+  - SoundName: sign
+    Clip: {fileID: 8300000, guid: 4a0534b3fa116c04081cdd15d7628e19, type: 3}
+    VolumeBalance: 1
+  - SoundName: maskOn
+    Clip: {fileID: 8300000, guid: 847a13e19b8e0c146a5be7dd9849ca97, type: 3}
+    VolumeBalance: 1
+  - SoundName: maskOff
+    Clip: {fileID: 8300000, guid: 7bf4b252dcc229541ba458536243b302, type: 3}
+    VolumeBalance: 1
+  - SoundName: camsOff
+    Clip: {fileID: 8300000, guid: 8f6d3ddecd31c6841bdaa10f43bdbfdb, type: 3}
+    VolumeBalance: 1
+  - SoundName: camsOn
+    Clip: {fileID: 8300000, guid: 187c1f43e898bba4995c48a820cae939, type: 3}
+    VolumeBalance: 1
+  - SoundName: flashclick
+    Clip: {fileID: 8300000, guid: 8cd7c3b4c888fc447a3ecb81dd15fe9e, type: 3}
+    VolumeBalance: 1
+  - SoundName: musicBox1
+    Clip: {fileID: 8300000, guid: 1e62f3717fa888048a4c46957ba8599b, type: 3}
+    VolumeBalance: 1
+  - SoundName: musicBox2
+    Clip: {fileID: 8300000, guid: da07d8ab285d7ae4bbbbaf89f57c3828, type: 3}
+    VolumeBalance: 1
+  - SoundName: musicBox3
+    Clip: {fileID: 8300000, guid: d65b50899d2405141837e26834724344, type: 3}
+    VolumeBalance: 1
+  - SoundName: musicBox4
+    Clip: {fileID: 8300000, guid: 7d9f250631dc0b2498ccb363fd166ffd, type: 3}
+    VolumeBalance: 1
+  - SoundName: AC4
+    Clip: {fileID: 8300000, guid: 66768c1b0bbf96f49818ad134dc5e9b3, type: 3}
+    VolumeBalance: 1
+  - SoundName: coinCollect
+    Clip: {fileID: 8300000, guid: 38458fda9946bb84e9a902d2a48e2b35, type: 3}
+    VolumeBalance: 1
+  - SoundName: buyItem
+    Clip: {fileID: 8300000, guid: 39dd3233796c4634d8e3e1152f34c0c2, type: 3}
+    VolumeBalance: 1
+  - SoundName: mouseSnap
+    Clip: {fileID: 8300000, guid: 07b1479c3d4fcca41a39de0f54647b7f, type: 3}
+    VolumeBalance: 1
+  - SoundName: powerDown
+    Clip: {fileID: 8300000, guid: 4fba8dcf436d86048a0d93faaf76696d, type: 3}
+    VolumeBalance: 1
+  - SoundName: blast1
+    Clip: {fileID: 8300000, guid: 5d6b7bd5ffaf71c4da8770fa64b78698, type: 3}
+    VolumeBalance: 1
+  - SoundName: blast2
+    Clip: {fileID: 8300000, guid: cd3138c7ad7d593409bbf8e202681845, type: 3}
+    VolumeBalance: 1
+  - SoundName: PowerUp
+    Clip: {fileID: 8300000, guid: f993e0c8e06400c41b4f30b805d172cf, type: 3}
+    VolumeBalance: 1
+  - SoundName: pushback
+    Clip: {fileID: 8300000, guid: 4c3a18a438d4c5b45a712dbc5e4b8d96, type: 3}
+    VolumeBalance: 1
+  - SoundName: gdChestClicked
+    Clip: {fileID: 8300000, guid: 48c8d956ce6c91b4ea20641d6a87d421, type: 3}
+    VolumeBalance: 1
+  - SoundName: shoptheme
+    Clip: {fileID: 8300000, guid: 567544a78456c8e47beab2428496dc1a, type: 3}
+    VolumeBalance: 1
+  - SoundName: nSwishClick
+    Clip: {fileID: 8300000, guid: 6746de035fb96fa4ba4f3ca8cd323796, type: 3}
+    VolumeBalance: 1
+  - SoundName: stare
+    Clip: {fileID: 8300000, guid: 1302ca31639d8644780bcbad28dfd089, type: 3}
+    VolumeBalance: 1
+  - SoundName: fishCought
+    Clip: {fileID: 8300000, guid: 443d3ffed7501a840b4d09efc304fa44, type: 3}
+    VolumeBalance: 1
+  - SoundName: fishLost
+    Clip: {fileID: 8300000, guid: c8860163d7d53fe409fcf26be968b5c6, type: 3}
+    VolumeBalance: 1
+  - SoundName: fishing
+    Clip: {fileID: 8300000, guid: 613229b7c79033d478ba40261e6a2c01, type: 3}
+    VolumeBalance: 1
+  - SoundName: escape
+    Clip: {fileID: 8300000, guid: 3580e7321193430439e423ea670c3f0e, type: 3}
+    VolumeBalance: 1
+  - SoundName: windup
+    Clip: {fileID: 8300000, guid: 74e54c9c265003844a11d64c66a23e48, type: 3}
+    VolumeBalance: 1
+  - SoundName: doorPound
+    Clip: {fileID: 8300000, guid: d435bcd1f3acd1b488ee6fea05f01b03, type: 3}
+    VolumeBalance: 1
+  - SoundName: running
+    Clip: {fileID: 8300000, guid: 7cabce7ef4a042b4e903a26cd028b9ba, type: 3}
+    VolumeBalance: 1
+  - SoundName: pressStart
+    Clip: {fileID: 8300000, guid: 057eaa5f204210d47b9f72b565ac386e, type: 3}
+    VolumeBalance: 1
+  - SoundName: peaceful
+    Clip: {fileID: 8300000, guid: 734fd4633e09e074998e2772d86ee0fa, type: 3}
+    VolumeBalance: 1
+  - SoundName: woah
+    Clip: {fileID: 8300000, guid: 5dd10af3be04ce247bb3b09996cc15ac, type: 3}
+    VolumeBalance: 0.508
+  - SoundName: shock
+    Clip: {fileID: 8300000, guid: 712386358c1f66942b7ece675eebf5d0, type: 3}
+    VolumeBalance: 0.485
+  - SoundName: killbotmusic
+    Clip: {fileID: 8300000, guid: 32635e64fb07fa145bef94af076f6831, type: 3}
+    VolumeBalance: 0.31
+  - SoundName: lolbeep
+    Clip: {fileID: 8300000, guid: f4b0a9bfa25df6a478327aa0e8343e2a, type: 3}
+    VolumeBalance: 0.522
+  - SoundName: minipip
+    Clip: {fileID: 8300000, guid: d087f412ad50aef4ca1993d6798c5fac, type: 3}
+    VolumeBalance: 1
+  - SoundName: clownAppear
+    Clip: {fileID: 8300000, guid: b879a5bd4d175c34ea1a0e980554e669, type: 3}
+    VolumeBalance: 1
+  - SoundName: OrangeMirror
+    Clip: {fileID: 8300000, guid: f371ae09dad90c54ab3246cca29162f9, type: 3}
+    VolumeBalance: 1
+  - SoundName: BlueMirror1
+    Clip: {fileID: 8300000, guid: bd647bab2939f5d4986e48656afda04d, type: 3}
+    VolumeBalance: 1
+  - SoundName: BlueMirror2
+    Clip: {fileID: 8300000, guid: 844f3a72e4bd2a7498abbc3e525a40d0, type: 3}
+    VolumeBalance: 1
+  - SoundName: chalSummoned
+    Clip: {fileID: 8300000, guid: c033d06dd86870e4f9c2f2f77035dd80, type: 3}
+    VolumeBalance: 1
+  - SoundName: birdScream
+    Clip: {fileID: 8300000, guid: 9ce73b99e35d11941ab60bc97b4750eb, type: 3}
+    VolumeBalance: 1
+  - SoundName: samiLaugh
+    Clip: {fileID: 8300000, guid: 5a8d1614136cfa84f94a471e797932b2, type: 3}
+    VolumeBalance: 1
+  - SoundName: glitchSPT
+    Clip: {fileID: 8300000, guid: 9a79eca0007a19148968b016fbb8ddf2, type: 3}
+    VolumeBalance: 1
